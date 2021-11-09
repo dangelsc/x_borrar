@@ -60,3 +60,15 @@ class Categoria extends Controller
         dd($request->input('nombre'));
     }
 } 
+/*
+Tarea 2
+*   Crear un proyecto en laravel,configurar la base de datos "Super", 
+    crear 2 controladores que tengan 2 funciones y deben mostran en html "Hola mundo #"
+    con uso de vistas.
+*   Crea otro proyecto en laravel, configura la base de datos "Bloqueo",
+    Crea un controlador que tenga las funciones "uno" y "dos", que inserten en la 
+    tabla persona(nombre,edad) y borrar una persona(mandar por parametro el id)
+     respectivamente.
+    para el jueves a 15:00
+    github-> url
+*/
